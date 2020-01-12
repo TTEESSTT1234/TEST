@@ -1,1 +1,3 @@
 READ ME
+
+이건 RIMMY 확인
